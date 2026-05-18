@@ -75,8 +75,8 @@ GET [https://api.kickbox.com/v2/verify?email=test@example.com&apikey=YOUR_API_KE
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/email-verification-app.git
-cd email-verification-app
+git clone https://github.com/your-username/email-verification.git
+cd email-verification
 ```
 
 ---
@@ -204,7 +204,6 @@ This application supports:
 * Safari (iOS/macOS)
 * Mobile browsers (iOS & Android)
 
-The UI is fully responsive for desktop, tablet, and mobile devices.
 
 
 ### Project Structure
